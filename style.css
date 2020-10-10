@@ -44,3 +44,8 @@ label {
 }
 
 
+
+Input,
+button {
+	padding: .5rem;
+}
